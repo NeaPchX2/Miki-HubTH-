@@ -1,3 +1,4 @@
 
 
-loadstring(game:HttpGet('https://github.com/NeaPchX2/Miki-HubTH-/files/8802723/miki.upddd.txt', true))()
+
+loadstring(game:HttpGet('https://github.com/NeaPchX2/Miki-HubTH-/files/8805359/Miki.2.txt', true))()
